@@ -1,9 +1,9 @@
 # My-Resume
 
 # Omar Adel Shalaan
-  •	Phone: (002)01280650234
-  •	Email: omaradelshalaan@gmail.com 
-  •	Address: Moharram bey, Alexandria 21500, Egypt
+  -	Phone: (002)01280650234
+  -	Email: omaradelshalaan@gmail.com 
+  -	Address: Moharram bey, Alexandria 21500, Egypt
 
 # Education
   •	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
