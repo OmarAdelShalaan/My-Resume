@@ -4,7 +4,7 @@
   -	Phone: (002)01280650234
   -	Email: omaradelshalaan@gmail.com 
   -	Address: Moharram bey, Alexandria 21500, Egypt
-
+  - [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
 
