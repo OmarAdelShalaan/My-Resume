@@ -20,10 +20,10 @@
 # Courses 
   -	Mastering-Embedded-System  ([My Learn-In-Depth Page](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))
   - C Programming with Linux Specialization
-		- C Programming Getting Started 1  [Certificate]()
-		- C Programming Language Foundations 2  [Certificate]()
-		- C Programming Modular Programming and Memory Management 3  [Certificate]()
-		- C Programming Pointers and Memory Management 4  [Certificate]()
+	- C Programming Getting Started 1  [Certificate]()
+	- C Programming Language Foundations 2  [Certificate]()
+	- C Programming Modular Programming and Memory Management 3  [Certificate]()
+	- C Programming Pointers and Memory Management 4  [Certificate]()
   -	Data Structures and Algorithms  [Certificate](./Certificates/Data_Structures_and_Algorithms.jpg)  
   -	Programming Fundamentals  [Certificate]()  
   -	C Course at Sololearn  [Certificate]()   
