@@ -19,7 +19,7 @@
 
 # Courses 
   -	Mastering-Embedded-System  ([My Learn-In-Depth Page](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))  [Certificate](./Certificates/Learn_In_Depth.jpg)
-  - C Programming with Linux Specialization[Certificate](./Certificates/C_Programming_with_Linux_Specialization)
+  - C Programming with Linux Specialization  [Certificate](./Certificates/C_Programming_with_Linux_Specialization)
   -	Data Structures and Algorithms  [Certificate](./Certificates/Data_Structures_and_Algorithms.jpg)  
   -	Programming Fundamentals  [Certificate](./Certificates/Programming_Fundamentals.jpg)  
   -	C Course at Sololearn  [Certificate](./Certificates/C_Sololearn.jpg)   
