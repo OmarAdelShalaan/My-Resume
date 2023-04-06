@@ -18,7 +18,7 @@
   -	Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) 
 
 # Courses 
-  -	Mastering-Embedded-System  ([]()) <a href="https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com" :target="_blank"> My Learn-In-Depth Page</a>  <a href="" target="_blank">Certificate</a>
+  -	Mastering-Embedded-System  ([]()) <a href="https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com" target="_blank" rel="noopener"> My Learn-In-Depth Page</a>  <a href="" target="_blank">Certificate</a>
   - C Programming with Linux Specialization
 		- C Programming Getting Started 1  <a href="./Certificates/"C Programming with Linux Specialization"/"C Programming Getting Started 1.jpg"" target="_blank">Certificate</a>
 		- C Programming Language Foundations 2  <a href="./Certificates/"C Programming with Linux Specialization"/"C Programming Language Foundations 2.jpg"" target="_blank">Certificate</a>
