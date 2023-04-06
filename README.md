@@ -1,6 +1,6 @@
 # My-Resume
 
-            # Omar Adel Shalaan
+# Omar Adel Shalaan
   •	Phone: (002)01280650234
   •	Email: omaradelshalaan@gmail.com 
   •	Address: Moharram bey, Alexandria 21500, Egypt
