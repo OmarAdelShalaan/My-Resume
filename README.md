@@ -24,7 +24,7 @@
 		- C Programming Language Foundations 2  [Certificate]()
 		- C Programming Modular Programming and Memory Management 3  [Certificate]()
 		- C Programming Pointers and Memory Management 4  [Certificate]()
-  -	Data Structures and Algorithms  [Certificate](./Certificates/Data\Structures\and\Algorithms.jpg)  
+  -	Data Structures and Algorithms  [Certificate](./Certificates/Data\ Structures\ and\ Algorithms.jpg)  
   -	Programming Fundamentals  [Certificate]()  
   -	C Course at Sololearn  [Certificate]()   
   -	Introduction to the Internet of Things and Embedded Systems  [Certificate]() 
