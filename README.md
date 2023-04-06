@@ -18,7 +18,7 @@
   -	Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) 
 
 # Courses 
-  -	Mastering-Embedded-System  (learn-in-depth) [Link](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
+  -	Mastering-Embedded-System  ([learn-In-Depth](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))
   -	Introduction to the Internet of Things and Embedded Systems 
   -	The Arduino Platform and C Programming 
   -	Data Structures and Algorithms 
