@@ -6,7 +6,7 @@
   -	Address: Moharram bey, Alexandria 21500, Egypt
   -	Exemption from military service
   - [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
-
+  - [Github](https://github.com/OmarAdelShalaan)
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
 
