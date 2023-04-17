@@ -1,5 +1,5 @@
 # My-Resume
-[ Omar Adel Shalaan](# Omar Adel Shalaan)  [Education](#Education)  [Skills](#Skills)  [Projects](#Projects)  [Projects](#Projects)  [Courses](#Courses)  [Internships](#Internships)  [Competitions](#Competitions)  [Languages](#Languages)  [Websites](#Websites)
+[Omar Adel Shalaan](#Omar Adel Shalaan)  [Education](#Education)  [Skills](#Skills)  [Projects](#Projects)  [Projects](#Projects)  [Courses](#Courses)  [Internships](#Internships)  [Competitions](#Competitions)  [Languages](#Languages)  [Websites](#Websites)
 
 # Omar Adel Shalaan
   -	Phone: (002)01280650234
