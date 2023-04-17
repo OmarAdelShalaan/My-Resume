@@ -9,13 +9,16 @@
   - [Github](https://github.com/OmarAdelShalaan)
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
+  -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program)
 
 # Skills
   -	Programming languages: C/C++, python 
   -	HW: AVR, Arduino Simulate: Proteus 
 
 # Projects 
-  -	Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) 
+  -	 Embedded Systems Professional Nanodegree Program Projects
+		- On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
+		- Payment Application [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 
 # Courses 
   -	Mastering-Embedded-System  ([My Learn-In-Depth Page](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))  [Certificate](./Certificates/Learn_In_Depth.jpg)
