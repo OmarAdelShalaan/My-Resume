@@ -1,6 +1,6 @@
 # My-Resume
-[Education](./Education)
-[Skills](Skills)
+[Education](#Education)
+[Skills](@Skills)
 # Omar Adel Shalaan
   -	Phone: (002)01280650234
   -	Email: omaradelshalaan@gmail.com 
