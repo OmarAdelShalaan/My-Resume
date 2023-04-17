@@ -1,6 +1,6 @@
 # My-Resume
-[Education](#Education)
-[Skills](@Skills)
+[ Omar Adel Shalaan](# Omar Adel Shalaan)  [Education](#Education)  [Skills](# Skills)  [Projects](# Projects )  [Projects](# Projects)  [Courses](# Courses )  [Internships](# Internships )  [Competitions](# Competitions)  [Languages](# Languages)  [Websites](# Websites)
+
 # Omar Adel Shalaan
   -	Phone: (002)01280650234
   -	Email: omaradelshalaan@gmail.com 
@@ -35,7 +35,7 @@
   -	Egypt Petroleum Company 
   -	Alexandria Electricity Distribution 
 
-# Competitions: 
+# Competitions 
   -	NASA Space Apps (online) 2021 
   -	NASA Space Apps (online) 2020 
   -	Let's Make A Robot (Faculty of Engineering, Alexandria University, Egypt) 2019
