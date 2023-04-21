@@ -10,7 +10,7 @@
   - [Github](https://github.com/OmarAdelShalaan)
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
-  -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program)
+  -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
 # Skills
   -	Programming languages: C/C++, python 
