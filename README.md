@@ -17,7 +17,7 @@
   -	HW: AVR, Arduino Simulate: Proteus 
 
 # Projects 
-  -  Mastering Embedded System
+  -  Mastering Embedded System (Learn-In-Depth)
 		- Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
   -	 Embedded Systems Professional Nanodegree Program Projects
 		- On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
