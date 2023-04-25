@@ -37,13 +37,13 @@
 # Internships 
   -	Egypt Petroleum Company  [Certificate](./Certificates/Internships/)
   -	Alexandria Electricity Distribution  [Certificate](./Certificates/Internships/)
-  - (as3afata)  [Certificate](./Certificates/Internships/)
+  - First Aid Course  [Certificate](./Certificates/Internships/First_Aid_Course.jpg)
 
 # Competitions 
-  -	NASA Space Apps (online) 2021  [Certificate](./Certificates/Competitions/)
+  -	NASA Space Apps (online) 2021  [Certificate](./Certificates/Competitions/NASA_Space_Apps.jpg)
   -	NASA Space Apps (online) 2020 
   -	Let's Make A Robot (Faculty of Engineering, Alexandria University, Egypt) 2019
-  - (t7ady)  [Certificate](./Certificates/Competitions/)
+  - Arab Reading Challenge  [Certificate](./Certificates/Competitions/Arab_Reading_Challenge.jpg)
   
 # Languages
   - Arabic (Native)
