@@ -2,13 +2,14 @@
 ([Omar Adel Shalaan](#omar-adel-shalaan))  ([Education](#Education))  ([Skills](#Skills))  ([Projects](#Projects))  ([Courses](#Courses))  ([Internships](#Internships))  ([Competitions](#Competitions))  ([Languages](#Languages))  ([Websites](#Websites))
 
 <h1 align="center">Omar Adel Shalaan</h1>
-  -	Phone: (002)01280650234
-  -	Email: omaradelshalaan@gmail.com 
-  -	Address: Moharram bey, Alexandria 21500, Egypt
-  -	Exemption from military service
-  - [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
-  - [Github](https://github.com/OmarAdelShalaan)
-  - [WhatsApp](https://wa.me/qr/3QLYBRFFBQUBG1)
+
+-	Phone: (002)01280650234
+-	Email: omaradelshalaan@gmail.com 
+-	Address: Moharram bey, Alexandria 21500, Egypt
+-	Exemption from military service
+-  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
+-  [Github](https://github.com/OmarAdelShalaan)
+-  [WhatsApp](https://wa.me/qr/3QLYBRFFBQUBG1)
   
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
