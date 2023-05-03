@@ -37,10 +37,13 @@
   -	Introduction to the Internet of Things and Embedded Systems  [Certificate](./Certificates/Courses/Introduction_to_the_Internet_of_Things_and_Embedded_Systems.jpg) 
   -	The Arduino Platform and C Programming  [Certificate](./Certificates/Courses/The_Arduino_Platform_and_C_Programming.jpg)  
   -	Learning How to Learn: Powerful mental tools to help you master tough subjects  [Certificate](./Certificates/Courses/Learning_How_to_Learn_Powerful_mental_tools_to_help_you_master_tough_subjects.jpg)  
+  - Autocad Course  [Certificate](./Certificates/Courses/Autocad_Course.jpg) 
   
 # Internships 
-  -	Egypt Petroleum Company  [Certificate](./Certificates/Internships/)
-  -	Alexandria Electricity Distribution  [Certificate](./Certificates/Internships/)
+  -	Egypt Petroleum Company  [Certificate](./Certificates/Internships/Egypt_Petroleum_Company.jpg)
+  -	Alexandria Electricity Distribution  [Certificate](./Certificates/Internships/Alexandria_Electricity_Distribution.jpg)
+  - Printed Circuit Boards  [Certificate](./Certificates/Internships/Printed_Circuit_Boards.jpg)
+  - Robotic Course   [Certificate](./Certificates/Internships/Robotic_Course.jpg)
   - First Aid Course  [Certificate](./Certificates/Internships/First_Aid_Course.jpg)
 
 # Competitions 
