@@ -57,6 +57,7 @@
   - English
 
 # Websites
+  - [Coursera](https://www.coursera.org/user/0af65574584ba272781ed5e67bd0b056)
   - [Hackerrank](https://www.hackerrank.com/omaradelshalaan)
   - [Leetcode](https://leetcode.com/OmarAdelShalaan/)
   
