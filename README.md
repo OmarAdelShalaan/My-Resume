@@ -21,6 +21,7 @@
   - Simulate: Proteus 
 
 # Projects 
+  - Voice Controlled Elevator (Graduation Project) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System)
   -  Mastering Embedded System (Learn-In-Depth)
 		- Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 		- Student Information Management [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
