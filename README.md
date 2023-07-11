@@ -9,7 +9,7 @@
 -	Exemption from military service
 -  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
 -  [Github](https://github.com/OmarAdelShalaan)
--  [WhatsApp](https://wa.me/qr/3QLYBRFFBQUBG1)
+
   
 # Education
   -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
