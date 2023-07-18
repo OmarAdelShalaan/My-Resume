@@ -12,7 +12,7 @@
 
   
 # Education
-  -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt Graduation year 2023
+  -	 Communication and Electronics Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
   -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
 # Skills
@@ -21,7 +21,7 @@
   - Simulate: Proteus 
 
 # Projects 
-  - Voice Controlled Elevator (Graduation Project) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System)
+  - Voice Controlled Elevator (Graduation Project) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) (Excellence)
   -  Mastering Embedded System (Learn-In-Depth)
 		- Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 		- Student Information Management [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
