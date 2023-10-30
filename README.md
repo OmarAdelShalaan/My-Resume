@@ -14,11 +14,6 @@
   -	 Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
   -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
-# Skills
-  -	Programming languages: C/C++, python 
-  -	HW: AVR, Arduino 
-  - Simulate: Proteus 
-
 # Projects 
   - Voice Controlled Elevator (Graduation Project) (Excellence)  [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
   -  Mastering Embedded System (Learn-In-Depth)
@@ -28,6 +23,28 @@
 		- On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
 		- Payment Application [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 
+# Skills
+
+  ##- Programming Languages
+		-  C
+		-  Embedded C
+		-  C++ object-oriented
+		-  Python
+		-  Introduction to Bash Scripting
+  ##- Tools and IDE
+		-  Eclipse IDE
+		-  STM Cube IDE
+		-  Code blocks
+		-  GCC Compiler
+		-  Eagle for PCB
+		-  Proetus
+		-  TTool
+		-  GIT (GitHub) 
+  ##- Microcontrollers and Kits
+		-  STM32-CortexM4 Microcontroller
+		-  AVR Microcontrollers
+		-  Arduino
+		
 # Courses 
   -	Mastering Embedded System  ([Repo](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)) ([My Learn-In-Depth Page](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))  [Certificate](./Certificates/Courses/Learn_In_Depth.jpg)
   - C Programming with Linux Specialization  [Certificate](./Certificates/Courses/C_Programming_with_Linux_Specialization)
