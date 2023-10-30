@@ -19,17 +19,17 @@
 -  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
 - ##  Mastering Embedded System (Learn-In-Depth)
 	-   ###  Pressure Controller 
--  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
--  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
+		-  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
+		-  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 	-   ###  Student Information Management
--  Student Information Management system with C Language 
--  (Add + Find + Delete + Update + Display + Exit) 10 Function [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
+		-  Student Information Management system with C Language 
+		-  (Add + Find + Delete + Update + Display + Exit) 10 Function [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
 - ##  Embedded Systems Professional Nanodegree Program Projects
 	-   ###  On-demand Traffic light control 
--  AVR (MCAL: DIO / Timer) (ECUAL: Delay/LED/External Interrupt) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
+		-  AVR (MCAL: DIO / Timer) (ECUAL: Delay/LED/External Interrupt) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
 	-   ###  Payment Application 
--  Payment Application System with C language
--  Implement the (card + terminal + server + application) module [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
+		-  Payment Application System with C language
+		-  Implement the (card + terminal + server + application) module [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 
 # Skills
 
