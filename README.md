@@ -25,25 +25,25 @@
 
 # Skills
 
-  ## - Programming Languages
-	-  C
-	-  Embedded C
-	-  C++ object-oriented
-	-  Python
-	-  Introduction to Bash Scripting
+- ##  Programming Languages
+-  C
+-  Embedded C
+-  C++ object-oriented
+-  Python
+-  Introduction to Bash Scripting
   ## - Tools and IDE
-	-  Eclipse IDE
-	-  STM Cube IDE
-	-  Code blocks
-	-  GCC Compiler
-	-  Eagle for PCB
-	-  Proetus
-	-  TTool
-	-  GIT (GitHub) 
+-  Eclipse IDE
+-  STM Cube IDE
+-  Code blocks
+-  GCC Compiler
+-  Eagle for PCB
+-  Proetus
+-  TTool
+-  GIT (GitHub) 
   ## - Microcontrollers and Kits
-	-  STM32-CortexM4 Microcontroller
-	-  AVR Microcontrollers
-	-  Arduino
+-  STM32-CortexM4 Microcontroller
+-  AVR Microcontrollers
+-  Arduino
 		
 # Courses 
   -	Mastering Embedded System  ([Repo](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)) ([My Learn-In-Depth Page](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com))  [Certificate](./Certificates/Courses/Learn_In_Depth.jpg)
