@@ -31,7 +31,7 @@
 -  C++ object-oriented
 -  Python
 -  Introduction to Bash Scripting
-  ## - Tools and IDE
+- ##  Tools and IDE
 -  Eclipse IDE
 -  STM Cube IDE
 -  Code blocks
@@ -40,7 +40,7 @@
 -  Proetus
 -  TTool
 -  GIT (GitHub) 
-  ## - Microcontrollers and Kits
+ - ##  Microcontrollers and Kits
 -  STM32-CortexM4 Microcontroller
 -  AVR Microcontrollers
 -  Arduino
