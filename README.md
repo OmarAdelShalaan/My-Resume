@@ -15,21 +15,21 @@
   -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
 # Projects 
-- ##  Voice Controlled Elevator (Graduation Project) (Excellence) 
--  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
+- ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
+	-  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
 - ##  Mastering Embedded System (Learn-In-Depth)
-	-   ###  Pressure Controller 
+	-   ###  Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 		-  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
-		-  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
-	-   ###  Student Information Management
+		-  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
+	-   ###  Student Information Management [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
 		-  Student Information Management system with C Language 
-		-  (Add + Find + Delete + Update + Display + Exit) 10 Function [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
-- ##  Embedded Systems Professional Nanodegree Program Projects
-	-   ###  On-demand Traffic light control 
-		-  AVR (MCAL: DIO / Timer) (ECUAL: Delay/LED/External Interrupt) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
-	-   ###  Payment Application 
+		-  (Add + Find + Delete + Update + Display + Exit) 10 Function 
+- ##  Embedded Systems Professional Nanodegree Program Projects [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
+	-   ###  On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
+		-  AVR (MCAL: DIO / Timer) (ECUAL: Delay/LED/External Interrupt) 
+	-   ###  Payment Application  [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 		-  Payment Application System with C language
-		-  Implement the (card + terminal + server + application) module [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
+		-  Implement the (card + terminal + server + application) module
 
 # Skills
 
