@@ -15,11 +15,10 @@
   -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
 # Projects 
-•	Voice Controlled Elevator (Graduation Project) (Excellence) 
-AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor
-Link: https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System 
-•	Mastering Embedded System (Learn-In-Depth)
-•	Pressure Controller 
+- ###  Voice Controlled Elevator (Graduation Project) (Excellence) 
+-  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
+- ###  Mastering Embedded System (Learn-In-Depth)
+-  - ###  Pressure Controller 
 •	(Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
 •	(TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
 •	Link: https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller
@@ -38,13 +37,13 @@ Link: https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System
 
 # Skills
 
-- ##  Programming Languages
+- ###  Programming Languages
 -  C
 -  Embedded C
 -  C++ object-oriented
 -  Python
 -  Introduction to Bash Scripting
-- ##  Tools and IDE
+- ###  Tools and IDE
 -  Eclipse IDE
 -  STM Cube IDE
 -  Code blocks
@@ -53,7 +52,7 @@ Link: https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System
 -  Proetus
 -  TTool
 -  GIT (GitHub) 
- - ##  Microcontrollers and Kits
+ - ###  Microcontrollers and Kits
 -  STM32-CortexM4 Microcontroller
 -  AVR Microcontrollers
 -  Arduino
