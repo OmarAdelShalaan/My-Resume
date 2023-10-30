@@ -54,7 +54,7 @@
 	-  Arduino
 		
 # Courses 
-  -	Mastering Embedded System  ([Repo](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)) ([My Learn-In-Depth Page]([https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com](https://www.learn-in-depth-store.com/account/blank-4)))  [Certificate](./Certificates/Courses/Learn_In_Depth.jpg)
+  -	Mastering Embedded System  ([Repo](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)) ([My Learn-In-Depth Page]((https://www.learn-in-depth-store.com/account/blank-4)))  [Certificate](./Certificates/Courses/Learn_In_Depth.jpg)
   - C Programming with Linux Specialization  [Certificate](./Certificates/Courses/C_Programming_with_Linux_Specialization)
   -	Data Structures and Algorithms  [Certificate](./Certificates/Courses/Data_Structures_and_Algorithms.jpg)  
   -	Programming Fundamentals  [Certificate](./Certificates/Courses/Programming_Fundamentals.jpg)  
