@@ -17,7 +17,7 @@
 # Projects 
 - ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
 	-  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
-- ##  Mastering Embedded System (Learn-In-Depth)
+- ##  Mastering Embedded System (Learn-In-Depth) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)
 	-   ###  Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 		-  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
 		-  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
