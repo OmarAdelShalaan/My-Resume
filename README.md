@@ -45,7 +45,7 @@
 	-  Code blocks
 	-  GCC Compiler
 	-  Eagle for PCB
-	-  Proetus
+	-  Proteus
 	-  TTool
 	-  GIT (GitHub) 
 - ###  Microcontrollers and Kits
