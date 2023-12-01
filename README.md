@@ -47,6 +47,7 @@
 	-  Eagle for PCB
 	-  Proteus
 	-  TTool
+ 	-  GDB Debugger  	
 	-  GIT (GitHub) 
 - ###  Microcontrollers and Kits
 	-  STM32-CortexM4 Microcontroller
