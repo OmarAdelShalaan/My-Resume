@@ -8,11 +8,11 @@
 -	Address: Moharram bey, Alexandria 21500, Egypt
 -	Exemption from military service
 -  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
-
   
 # Education
   -	 Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
   -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
+  -  C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 
 # Projects 
 - ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
@@ -30,9 +30,12 @@
 	-   ###  Payment Application  [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 		-  Payment Application System with C language
 		-  Implement the (card + terminal + server + application) module
+- ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
+  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
+  	 	-  Employee Record System with C Language 
+		-  (Add + Delete + Modify + Display + Exit)
 
 # Skills
-
 - ###  Programming Languages
 	-  C
 	-  Embedded C
@@ -66,25 +69,25 @@
   - Autocad Course  [Certificate](./Certificates/Courses/Autocad_Course.jpg) 
   
 # Internships 
-  -	Egypt Petroleum Company  [Certificate](./Certificates/Internships/Egypt_Petroleum_Company.jpg)
-  -	Alexandria Electricity Distribution  [Certificate](./Certificates/Internships/Alexandria_Electricity_Distribution.jpg)
-  - Printed Circuit Boards  [Certificate](./Certificates/Internships/Printed_Circuit_Boards.jpg)
-  - Robotic Course   [Certificate](./Certificates/Internships/Robotic_Course.jpg)
-  - First Aid Course  [Certificate](./Certificates/Internships/First_Aid_Course.jpg)
+- Egypt Petroleum Company  [Certificate](./Certificates/Internships/Egypt_Petroleum_Company.jpg)
+- Alexandria Electricity Distribution  [Certificate](./Certificates/Internships/Alexandria_Electricity_Distribution.jpg)
+- Printed Circuit Boards  [Certificate](./Certificates/Internships/Printed_Circuit_Boards.jpg)
+- Robotic Course   [Certificate](./Certificates/Internships/Robotic_Course.jpg)
+- First Aid Course  [Certificate](./Certificates/Internships/First_Aid_Course.jpg)
 
 # Competitions 
-  -	NASA Space Apps (online) 2021  [Certificate](./Certificates/Competitions/NASA_Space_Apps.jpg)
-  -	NASA Space Apps (online) 2020 
-  -	Let's Make A Robot (Faculty of Engineering, Alexandria University, Egypt) 2019
-  - Arab Reading Challenge  [Certificate](./Certificates/Competitions/Arab_Reading_Challenge.jpg)
+- NASA Space Apps (online) 2021  [Certificate](./Certificates/Competitions/NASA_Space_Apps.jpg)
+- NASA Space Apps (online) 2020 
+- Let's Make A Robot (Faculty of Engineering, Alexandria University, Egypt) 2019
+- Arab Reading Challenge  [Certificate](./Certificates/Competitions/Arab_Reading_Challenge.jpg)
   
 # Languages
-  - Arabic (Native)
-  - English
+- Arabic (Native)
+- English
 
 # Websites
-  - [Coursera](https://www.coursera.org/user/0af65574584ba272781ed5e67bd0b056)
-  - [Hackerrank](https://www.hackerrank.com/omaradelshalaan)
-  - [Leetcode](https://leetcode.com/OmarAdelShalaan/)
-  
+- [Coursera](https://www.coursera.org/user/0af65574584ba272781ed5e67bd0b056)
+- [Hackerrank](https://www.hackerrank.com/omaradelshalaan)
+- [Leetcode](https://leetcode.com/OmarAdelShalaan/)
+
   
