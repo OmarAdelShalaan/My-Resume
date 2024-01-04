@@ -34,6 +34,9 @@
   	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
   	 	-  Employee Record System with C Language 
 		-  (Add + Delete + Modify + Display + Exit)
+- ## ALX SE Foundation
+  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell)
+  	  	- Create Shell With C Programming Language
 
 # Skills
 - ###  Programming Languages
