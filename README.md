@@ -5,7 +5,7 @@
 
 -	Phone: (002)01280650234
 -	Email: omaradelshalaan@gmail.com 
--	Address: Moharram bey, Alexandria 21500, Egypt
+-	Address: Alexandria 21500, Egypt
 -	Exemption from military service
 -  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
   
