@@ -61,6 +61,7 @@
 	-  Arduino
 		
 # Courses 
+  -	UbuntuLinux Essentials  ([Repo](https://github.com/OmarAdelShalaan/Ubuntu_Linux_Essentials)) ([Certificate](./Certificates/Courses/Ubuntu_Linux_Essentials.jpg)
   -	Mastering Embedded System  ([Repo](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)) ([My Learn-In-Depth Page](https://www.learn-in-depth-store.com/account/blank-4))  [Certificate](./Certificates/Courses/Learn_In_Depth.jpg)
   - C Programming with Linux Specialization  [Certificate](./Certificates/Courses/C_Programming_with_Linux_Specialization)
   -	Data Structures and Algorithms  [Certificate](./Certificates/Courses/Data_Structures_and_Algorithms.jpg)  
