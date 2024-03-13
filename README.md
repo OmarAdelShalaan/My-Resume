@@ -44,7 +44,8 @@
 	-  Embedded C
 	-  C++ object-oriented
 	-  Python
-	-  Introduction to Bash Scripting
+	-  Bash Scripting
+ 	-  Make Scripting
 - ###  Tools and IDE
 	-  Eclipse IDE
 	-  STM Cube IDE
