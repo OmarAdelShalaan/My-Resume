@@ -15,6 +15,13 @@
   -  C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 
 # Projects 
+- ## ALX SE Foundation
+  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell)
+  	  	- Create Shell With C Programming Language
+- ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
+  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
+  	 	-  Employee Record System with C Language 
+		-  (Add + Delete + Modify + Display + Exit)
 - ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
 	-  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
 - ##  Mastering Embedded System (Learn-In-Depth) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)
@@ -30,13 +37,6 @@
 	-   ###  Payment Application  [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
 		-  Payment Application System with C language
 		-  Implement the (card + terminal + server + application) module
-- ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
-  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
-  	 	-  Employee Record System with C Language 
-		-  (Add + Delete + Modify + Display + Exit)
-- ## ALX SE Foundation
-  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell)
-  	  	- Create Shell With C Programming Language
 
 # Skills
 - ###  Programming Languages
