@@ -31,7 +31,7 @@
 	-   ###  Student Information Management [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
 		-  Student Information Management system with C Language 
 		-  (Add + Find + Delete + Update + Display + Exit) 10 Function 
-- ##  Embedded Systems Professional Nanodegree Program Projects [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
+- ##  Embedded Systems Professional Nanodegree Program Projects (FWD) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 	-   ###  On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
 		-  AVR (MCAL: DIO / Timer / External Interrupt) (ECUAL: Delay / LED) 
 	-   ###  Payment Application  [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
