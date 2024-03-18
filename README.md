@@ -11,7 +11,7 @@
   
 # Education
   -	 Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
-  -  Embedded Systems Professional Nanodegree Program [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
+  -  Embedded Systems Professional Nanodegree Program (FWD) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
   -  C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 
 # Projects 
