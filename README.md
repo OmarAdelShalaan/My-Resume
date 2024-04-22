@@ -48,8 +48,9 @@
 			added on-demand crosswalk button to ensure safe pedestrian crossings.
 			AVR (MCAL: DIO / Timer / External Interrupt) (ECUAL: Delay / LED) 
 	-   ###  Payment Application (Aug 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
-			The Payment Application project, built in C for embedded systems, manages transactions like preauthorization, VOID, sale, and refund. SALE deducts funds, REFUND returns them post-return. Preauthorization holds funds, while VOID cancels transactions (e.g., incorrect amounts). The project
-			includes modules for card, terminal, and server, and application logic.
+			The Payment Application project, built in C for embedded systems, manages transactions like preauthorization, VOID, sale, and refund.
+			SALE deducts funds, REFUND returns them post-return. Preauthorization holds funds, while VOID cancels transactions (e.g., incorrect amounts).
+			The project cludes modules for card, terminal, and server, and application logic.
 
 # Skills
 - ###  Programming Languages
