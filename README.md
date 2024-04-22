@@ -16,34 +16,40 @@
 
 # Projects 
 - ## ALX SE Foundation
-  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell) (Jan 2024)
+  	- ### Simple Shell Project (Jan 2024) [Link](https://github.com/OmarAdelShalaan/simple_shell)
   	  	  The Simple Shell Project for ALX SE Foundations is about building a command-line shell in C that
 		  handles single-word commands, errors for missing executables, (Ctrl+D) for end of file, commands with
 		  arguments, PATH variable, exit command, env built-in for environment display, cd with directory
 		  options, and variable replacement.
 - ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
-  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)  (Dec 2023)
+  	- ### Employee Record System Project (Dec 2023) [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
   	 		The Employee Record System streamlines managing employee data with features for adding, deleting,
 			modifying, and viewing employee information, along with an option to view all records and exit the
 			system.
-- ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) (Sep2022 – Jul2023)
+- ##  Voice Controlled Elevator (Sep2022 – Jul2023) (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
 		Due to the COVID-19 pandemic, there was a significant push to minimize virus transmission, especially
 		in confined spaces like elevators. This led to a shift towards voice-controlled elevator systems, reducing
 		the need for physical contact with control buttons and promoting safer interactions.
   		AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
 - ##  Mastering Embedded System (Learn-In-Depth) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)
-	-   ###  Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
-		-  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
-		-  (TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
-	-   ###  Student Information Management [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
-		-  Student Information Management system with C Language 
-		-  (Add + Find + Delete + Update + Display + Exit) 10 Function 
+	-   ###  Pressure Controller (Apr 2023) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
+			The Pressure Controller project on GitHub includes essential startup code, a linker script, and a Makefile
+			for building the embedded system. It also integrates Proteus for debugging/simulation and utilizes TTool
+			for system analysis/design documentation.
+     			(Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
+			(TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
+	-   ###  Student Information Management (Apr 2023) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
+			The "Student Information Management" project hosted on GitHub is built using the C language and
+			features functionality for adding, finding, deleting, updating, displaying student information, and exiting
+			the system. It comprised more functions to manage student data effectively.
 - ##  Embedded Systems Professional Nanodegree Program Projects (FWD) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
-	-   ###  On-demand Traffic light control [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
-		-  AVR (MCAL: DIO / Timer / External Interrupt) (ECUAL: Delay / LED) 
-	-   ###  Payment Application  [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
-		-  Payment Application System with C language
-		-  Implement the (card + terminal + server + application) module
+	-   ###  On-demand Traffic light control (Sep 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/On-demand%20Traffic%20light%20control)
+			The Traffic Lights System includes standard red, yellow, and green signals for vehicles, with an
+			added on-demand crosswalk button to ensure safe pedestrian crossings.
+			AVR (MCAL: DIO / Timer / External Interrupt) (ECUAL: Delay / LED) 
+	-   ###  Payment Application (Aug 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program/tree/main/Payment%20Application)
+			The Payment Application project, built in C for embedded systems, manages transactions like preauthorization, VOID, sale, and refund. SALE deducts funds, REFUND returns them post-return. Preauthorization holds funds, while VOID cancels transactions (e.g., incorrect amounts). The project
+			includes modules for card, terminal, and server, and application logic.
 
 # Skills
 - ###  Programming Languages
