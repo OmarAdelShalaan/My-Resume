@@ -17,7 +17,11 @@
 # Projects 
 - ## ALX SE Foundation
   	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell)
-  	  	- Create Shell With C Programming Language
+  	  	- ```
+  	  	  The Simple Shell Project for ALX SE Foundations is about building a command-line shell in C that
+		  handles single-word commands, errors for missing executables, (Ctrl+D) for end of file, commands with
+		  arguments, PATH variable, exit command, env built-in for environment display, cd with directory
+		  options, and variable replacement.```
 - ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
   	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
   	 	-  Employee Record System with C Language 
