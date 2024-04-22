@@ -12,7 +12,7 @@
 # Education
 - Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
 # Scholarship
-- Embedded Linux National Telecommunication Institute (NTI) (Feb 2024 - Present)
+- Embedded Linux National Telecommunication Institute (NTI) (Feb 2024 - Present) [Link](https://github.com/OmarAdelShalaan/Embedded-Linux)
 - Embedded Systems Professional Nanodegree Program (FWD) (Aug - Sep 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 - C and Embedded C NTI Course (Oct - Dec 2023) [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 
