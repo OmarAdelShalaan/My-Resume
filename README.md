@@ -1,5 +1,5 @@
 # My-Resume
-([Personal Information](#omar-adel-shalaan))  ([Education](#Education))  ([Projects](#Projects))  ([Skills](#Skills))  ([Courses](#Courses))  ([Internships](#Internships))  ([Competitions](#Competitions))  ([Languages](#Languages))  ([Websites](#Websites))
+([Personal Information](#omar-adel-shalaan))  ([Education](#Education)) ([Scholarship](#scholarship)) ([Projects](#Projects))  ([Skills](#Skills))  ([Courses](#Courses))  ([Internships](#Internships))  ([Competitions](#Competitions))  ([Languages](#Languages))  ([Websites](#Websites))
 
 <h1 align="center">Omar Adel Shalaan</h1>
 
