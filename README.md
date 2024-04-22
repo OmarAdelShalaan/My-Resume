@@ -36,7 +36,7 @@
 			The Pressure Controller project on GitHub includes essential startup code, a linker script, and a Makefile
 			for building the embedded system. It also integrates Proteus for debugging/simulation and utilizes TTool
 			for system analysis/design documentation.
-     			(Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
+			(Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
 			(TTool Requirements Diagram / System Analysis /Sequence Diagram / System Design) 
 	-   ###  Student Information Management (Apr 2023) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Student_Information_Management)
 			The "Student Information Management" project hosted on GitHub is built using the C language and
