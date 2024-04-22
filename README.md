@@ -83,9 +83,10 @@
  	-  GDB Debugger  	
 	-  GIT (GitHub) 
 - ###  Microcontrollers and Kits
-	-  STM32-CortexM4 Microcontroller
-	-  AVR Microcontrollers
-	-  Arduino
+	- Raspberry Pi 
+	- STM32-CortexM4 Microcontroller
+	- AVR Microcontrollers
+	- Arduino
 		
 # Courses 
   -	Ubuntu Linux Essentials (Mahara-Tech) ([Repo](https://github.com/OmarAdelShalaan/Ubuntu_Linux_Essentials)) [Certificate](./Certificates/Courses/Ubuntu_Linux_Essentials.jpg)
