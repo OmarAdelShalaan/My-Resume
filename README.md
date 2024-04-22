@@ -10,7 +10,7 @@
 -  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
   
 # Education
-- Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
+- Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023
 # Scholarship
 - Embedded Linux National Telecommunication Institute (NTI) (Feb 2024 - Present) [Link](https://github.com/OmarAdelShalaan/Embedded-Linux)
 - C and Embedded C NTI Course (Oct - Dec 2023) [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
