@@ -16,19 +16,21 @@
 
 # Projects 
 - ## ALX SE Foundation
-  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell)
-  	          ```
+  	- ### Simple Shell Project [Link](https://github.com/OmarAdelShalaan/simple_shell) (Jan 2024)
   	  	  The Simple Shell Project for ALX SE Foundations is about building a command-line shell in C that
 		  handles single-word commands, errors for missing executables, (Ctrl+D) for end of file, commands with
 		  arguments, PATH variable, exit command, env built-in for environment display, cd with directory
 		  options, and variable replacement.
-  	  	  ```
 - ## C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
-  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)
-  	 	-  Employee Record System with C Language 
-		-  (Add + Delete + Modify + Display + Exit)
-- ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) 
-	-  AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
+  	- ### Employee Record System Project [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course/tree/main/Employee_Record_System_Project)  (Dec 2023)
+  	 		The Employee Record System streamlines managing employee data with features for adding, deleting,
+			modifying, and viewing employee information, along with an option to view all records and exit the
+			system.
+- ##  Voice Controlled Elevator (Graduation Project) (Excellence) [Link](https://github.com/OmarAdelShalaan/Elevator-Voice-Control-System) (Sep2022 – Jul2023)
+		Due to the COVID-19 pandemic, there was a significant push to minimize virus transmission, especially
+		in confined spaces like elevators. This led to a shift towards voice-controlled elevator systems, reducing
+		the need for physical contact with control buttons and promoting safer interactions.
+  		AVR (Interrupt + UART) + Keypad + Voice Recognition Module v3 + DC Motor 
 - ##  Mastering Embedded System (Learn-In-Depth) [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System)
 	-   ###  Pressure Controller [Link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/Projects/Pressure_Controller)
 		-  (Startup.c + LinkerScript.ld + makefile) (Proteus Debugger / Simulation) 
