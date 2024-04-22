@@ -10,9 +10,11 @@
 -  [Linkedin](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
   
 # Education
-  -	 Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
-  -  Embedded Systems Professional Nanodegree Program (FWD) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
-  -  C and Embedded C NTI Course [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
+- Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023, Grade Good
+## Scholarship
+- Embedded Linux National Telecommunication Institute (NTI) (Feb 2024 - Present)
+- Embedded Systems Professional Nanodegree Program (FWD) (Aug - Sep 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
+- C and Embedded C NTI Course (Oct - Dec 2023) [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 
 # Projects 
 - ## ALX SE Foundation
