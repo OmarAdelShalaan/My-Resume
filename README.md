@@ -60,6 +60,16 @@
 	-  Python
 	-  Bash Scripting
  	-  Make Scripting
+- ### Embedded Linux
+	- Crosstool-NG
+   	- U-Boot
+   	- Kernel
+   	- BusyBox
+   	- Buildroot
+   	- Yocto
+- ### Embedded System
+	- Interfacing
+ 	- Communication Protocols
 - ###  Tools and IDE
 	-  Eclipse IDE
 	-  STM Cube IDE
