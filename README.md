@@ -18,7 +18,7 @@
 
 # Projects 
 - ## Infotainment System, NTI Graduation Project (May 2024)
-	 Comprises two ECUs:
+ 	Comprises two ECUs:
 	- First ECU: features a user interface for door status, temperature monitoring, and media playback. It integrates Qt Framework, QML, and REST API, and utilizes Jamendo API for online song search.
 	- Second ECU: serves as a server, connecting to temperature sensors and limit switches for real-time door state and temperature sensing. It leverages Yocto for image customization and utilizes device drivers for GPIO and I2C interfaces.
 	  Both ECUs communicate seamlessly via socket programming.
