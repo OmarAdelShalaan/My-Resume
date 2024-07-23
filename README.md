@@ -12,11 +12,16 @@
 # Education
 - Communication and Electronics, Faculty of Engineering, Alexandria University, Egypt, Graduation year 2023
 # Scholarship
-- Embedded Linux National Telecommunication Institute (NTI) (Feb 2024 - Present) [Link](https://github.com/OmarAdelShalaan/Embedded-Linux)
+- Embedded Linux National Telecommunication Institute (NTI) (Feb - May 2024) [Link](https://github.com/OmarAdelShalaan/Embedded-Linux)
 - C and Embedded C NTI Course (Oct - Dec 2023) [Link](https://github.com/OmarAdelShalaan/C-and-Embedded-C-NTI-Course) [Certificate](./Certificates/Education/C-and-Embedded-C-NTI-Course.jpg)
 - Embedded Systems Professional Nanodegree Program (FWD) (Aug - Sep 2022) [Link](https://github.com/OmarAdelShalaan/Embedded-Systems-Professional-Nanodegree-Program) [Certificate](./Certificates/Education/Embedded-Systems-Professional-Nanodegree-Program.jpg)
 
 # Projects 
+-Infotainment System, NTI Graduation Project (May 2024)
+	Comprises two ECUs:
+	- First ECU: features a user interface for door status, temperature monitoring, and media playback. It integrates Qt Framework, QML, and REST API, and utilizes Jamendo API for online song search.
+	- Second ECU: serves as a server, connecting to temperature sensors and limit switches for real-time door state and temperature sensing. It leverages Yocto for image customization and utilizes device drivers for GPIO and I2C interfaces.
+	Both ECUs communicate seamlessly via socket programming.
 - ## ALX SE Foundation
   	- ### Simple Shell Project (Jan 2024) [Link](https://github.com/OmarAdelShalaan/simple_shell)
   	  	  The Simple Shell Project for ALX SE Foundations is about building a command-line shell in C that
